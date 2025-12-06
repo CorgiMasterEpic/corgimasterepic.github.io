@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/theme.css">
+
 # 👋 Hi, I'm CorgiMasterEpic!
 
 Welcome to my personal GitHub site; a place where I share my projects, experiments, and updates on what I'm building.  
