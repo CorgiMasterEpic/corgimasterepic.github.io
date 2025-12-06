@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/assets/theme.css">
+<link rel="stylesheet" href="/assets/css/theme.css">
 
 # 👋 Hi, I'm CorgiMasterEpic!
 
@@ -25,7 +25,6 @@ Here are some of the projects I’m working on:
 Stay up-to-date with what I’m working on:
 
 - **[Visit my News Page](https://corgimasterepic.github.io/news/)**  
-  (Create `/news/index.md` and add updates whenever you want!)
 
 ---
 
