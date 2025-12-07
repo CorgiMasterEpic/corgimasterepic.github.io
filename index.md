@@ -13,10 +13,8 @@ Here are some of the projects I’m working on:
 
 - **Toucanix** (Operating System)  
   A project I'm actively developing.
-
-  -> https://github.com/corgimasterepic/toucanix
-
-  -> https://corgimasterepic.github.io/toucanix-site/
+  - [Project](https://github.com/corgimasterepic/toucanix)
+  - [Site](https://corgimasterepic.github.io/toucanix-site)
 
 ---
 
@@ -32,7 +30,7 @@ Stay up-to-date with what I’m working on:
 
 If you want to reach out or see what else I’m doing, feel free to check out my GitHub profile:
 
-➡️ https://github.com/corgimasterepic/
+- [Github](https://github.com/corgimasterepic)
 
 ---
 
